@@ -3,10 +3,13 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MazeCellEdge.cs">
     <Files>
       <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\MazeCell.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Maze.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\MazeDirection.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\MazeCellEdge.cs" Line="12" Column="1" />
+      <File FileName="Assets\Scripts\MazeCell.cs" Line="40" Column="20" />
+      <File FileName="Assets\Scripts\Maze.cs" Line="81" Column="5" />
+      <File FileName="Assets\Scripts\MazeDirection.cs" Line="49" Column="2" />
+      <File FileName="Assets\Scripts\MazeCellEdge.cs" Line="15" Column="53" />
+      <File FileName="Assets\Scripts\MazePassage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MazeWall.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\IntVector2.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
